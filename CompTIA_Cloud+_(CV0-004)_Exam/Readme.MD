@@ -53,7 +53,7 @@ Which of the following is a benefit of using a Type 1 hypervisor instead of a Ty
 **********
 
 Question 2
-An administrator needs to set up a new VM in a public clou    D. Which of the following would be the most appropriate method for doing so?
+An administrator needs to set up a new VM in a public cloud. Which of the following would be the most appropriate method for doing so?
 
     A. Using the provider's web portal
     B. Using a secure FTP connection
@@ -2048,10 +2048,7 @@ What is a key advantage of using cloud-based email filtering services?
 Question 1
 Which of the following is a benefit of using a Type 1 hypervisor instead of a Type 2 hypervisor?
 
-    A. Improved hardware compatibility
-    B. Better application performance
-    C. Increased management flexibility
-    D. Enhanced user interface
+
 
 Answer:     B. Better application performance
 
@@ -2059,12 +2056,9 @@ Answer:     B. Better application performance
 Type 1 hypervisors, also known as bare-metal hypervisors, run directly on the host's hardware, providing better performance because there is no underlying operating system. Type 2 hypervisors run on top of an existing operating system, adding additional overhead and potentially reducing performance.
 
 Question 2
-An administrator needs to set up a new VM in a public clou    D. Which of the following would be the most appropriate method for doing so?
+An administrator needs to set up a new VM in a public cloud. Which of the following would be the most appropriate method for doing so?
 
-    A. Using the provider's web portal
-    B. Using a secure FTP connection
-    C. Using a direct console connection
-    D. Using an SSH connection to the hypervisor
+
 
 Answer:     A. Using the provider's web portal
 
@@ -2074,10 +2068,7 @@ Most public cloud providers offer a web-based portal that allows administrators 
 Question 3
 Which of the following storage types provides the highest performance in a cloud environment?
 
-    A. Network Attached Storage (NAS)
-    B. Object Storage
-    C. Solid-State Drive (SSD)
-    D. Magnetic Tape
+
 
 Answer:     C. Solid-State Drive (SSD)
 
