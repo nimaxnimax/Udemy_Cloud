@@ -896,10 +896,7 @@ Explanation:
 Cloud-based AI and ML services provide access to advanced algorithms and scalable processing power, enabling organizations to develop and deploy AI/ML solutions without significant investments in hardware and infrastructure.
 
 Question 69
-**Which of the following is a common use case for
-
-ChatGPT
-cloud-based DevOps practices?**
+Which of the following is a common use case for cloud-based DevOps practices?
 
     A. Manual software deployment
     B. Increasing deployment lead times
@@ -2099,9 +2096,6 @@ Answer:     B. A framework for managing microservices communication in cloud-nat
 Explanation:
 A service mesh is a dedicated infrastructure layer for managing microservices communication, providing features such as load balancing, service discovery, and security, which are essential for cloud-native applications.
 
-more different questions
-ChatGPT
-Certainly! Here are more diverse CompTIA Cloud+ (CV0-004) exam questions with answers and explanations:
 
 Question 161
 What is the primary purpose of using cloud-based DevOps practices?
