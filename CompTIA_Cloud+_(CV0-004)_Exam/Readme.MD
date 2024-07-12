@@ -1,5 +1,6 @@
 
-Course Title: CompTIA Cloud+ (CV0-004) Exam Preparation
+
+CompTIA Cloud+ (CV0-004) Exam Preparation
 
 CompTIA Cloud+ (CV0-004) Overview:
 CompTIA Cloud+ (CV0-004) is a certification exam designed for IT professionals who work in cloud computing environments. It validates the skills and knowledge necessary to securely implement, maintain, and optimize cloud infrastructure services. This course serves as an intensive exam preparation, covering all exam objectives and providing 200 practice questions and answers to ensure learners are fully prepared to pass the exam.
