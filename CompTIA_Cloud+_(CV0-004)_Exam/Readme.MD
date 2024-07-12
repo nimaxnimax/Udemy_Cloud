@@ -3351,6 +3351,7 @@ Answer:     B. Ensuring code changes are integrated and deployed frequently and 
 
 A cloud-native CI CD pipeline automates the process of integrating code changes and deploying them frequently and reliably, enhancing the speed and quality of software development and delivery.
 
+
 Question 101
 Which of the following best describes a "virtual private cloud" (VPC)?
 
