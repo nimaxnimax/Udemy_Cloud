@@ -2548,13 +2548,13 @@ Which of the following describes a benefit of using managed services in a cloud 
 Answer:     C. Offloading management and maintenance tasks to the provider
 
 
+Managed services in a cloud environment allow organizations to offload the management and maintenance of IT services to the cloud provider, freeing up internal resources and reducing operational overhead.
+
+
 **********
 
 
 OK Questions and Answers Number 51 to 100:
-
-
-Managed services in a cloud environment allow organizations to offload the management and maintenance of IT services to the cloud provider, freeing up internal resources and reducing operational overhead.
 
 
 Question 51
