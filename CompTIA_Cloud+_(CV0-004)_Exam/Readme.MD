@@ -1583,8 +1583,6 @@ Cloud-based serverless computing automatically scales and executes code without 
 
 **********
 
-Sure, here are more unique questions and answers for the CompTIA Cloud+ (CV0-004) exam:
-
 ### Question 121
 **Which of the following best describes the purpose of a cloud service-level agreement (SLA)?**
 
