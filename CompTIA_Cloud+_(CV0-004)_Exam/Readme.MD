@@ -2377,5 +2377,267 @@ Serverless computing allows code to run without the need for provisioning or man
 
 **********
 
+### Question 181
+**Which of the following best describes the purpose of cloud-based application performance monitoring (APM) services?**
+
+A. Manual performance monitoring  
+B. Limited visibility into application performance  
+C. Continuous monitoring of application performance and user experience to detect and resolve issues  
+D. Fixed performance metrics
+
+**Answer:** C. Continuous monitoring of application performance and user experience to detect and resolve issues
+
+**Explanation:**  
+Cloud-based APM services provide continuous monitoring of application performance and user experience, helping detect and resolve issues proactively to ensure optimal performance.
+
+### Question 182
+**What is a primary benefit of using cloud-based multi-factor authentication (MFA) services?**
+
+A. Manual user authentication  
+B. Limited authentication methods  
+C. Enhancing security by requiring multiple forms of verification before granting access  
+D. Fixed authentication policies
+
+**Answer:** C. Enhancing security by requiring multiple forms of verification before granting access
+
+**Explanation:**  
+Cloud-based MFA services enhance security by requiring users to provide multiple forms of verification, such as a password and a one-time code, before granting access to systems and applications.
+
+### Question 183
+**Which of the following best describes the concept of a cloud-native data lake?**
+
+A. Traditional data storage  
+B. Limited data scalability  
+C. A centralized repository that allows you to store structured and unstructured data at any scale  
+D. Fixed data schemas
+
+**Answer:** C. A centralized repository that allows you to store structured and unstructured data at any scale
+
+**Explanation:**  
+A cloud-native data lake is a centralized repository that can store vast amounts of structured and unstructured data, enabling organizations to scale their data storage and perform analytics.
+
+### Question 184
+**What is a key characteristic of cloud-based configuration management services?**
+
+A. Manual configuration tracking  
+B. Limited configuration control  
+C. Automated tracking and management of configurations across cloud resources to ensure consistency and compliance  
+D. Fixed configuration settings
+
+**Answer:** C. Automated tracking and management of configurations across cloud resources to ensure consistency and compliance
+
+**Explanation:**  
+Cloud-based configuration management services automate the tracking and management of configurations, ensuring consistency, compliance, and reducing the risk of configuration drift across cloud environments.
+
+### Question 185
+**Which cloud deployment model provides services to multiple customers on a shared infrastructure but with separate data and application environments?**
+
+A. Public cloud  
+B. Private cloud  
+C. Hybrid cloud  
+D. Community cloud
+
+**Answer:** A. Public cloud
+
+**Explanation:**  
+In a public cloud deployment model, services are provided to multiple customers on a shared infrastructure, but each customer has separate data and application environments to ensure security and isolation.
+
+### Question 186
+**What is the primary benefit of using cloud-based sandbox environments for development and testing?**
+
+A. Manual environment setup  
+B. Limited testing capabilities  
+C. Isolated and secure environments for testing code and applications without affecting production systems  
+D. Fixed sandbox configurations
+
+**Answer:** C. Isolated and secure environments for testing code and applications without affecting production systems
+
+**Explanation:**  
+Cloud-based sandbox environments provide isolated and secure spaces for developers to test code and applications, ensuring that testing activities do not impact production systems.
+
+### Question 187
+**Which of the following best describes the purpose of cloud-based data replication services?**
+
+A. Manual data copying  
+B. Limited data synchronization  
+C. Automatically copying data from one location to another to ensure high availability and disaster recovery  
+D. Fixed replication intervals
+
+**Answer:** C. Automatically copying data from one location to another to ensure high availability and disaster recovery
+
+**Explanation:**  
+Cloud-based data replication services automatically copy data from one location to another, ensuring that data is highly available and protected against disasters.
+
+### Question 188
+**What is a key characteristic of cloud-based object storage services?**
+
+A. Manual file management  
+B. Limited storage scalability  
+C. Storing and managing large amounts of unstructured data with high scalability and durability  
+D. Fixed storage limits
+
+**Answer:** C. Storing and managing large amounts of unstructured data with high scalability and durability
+
+**Explanation:**  
+Cloud-based object storage services are designed to store and manage large volumes of unstructured data, offering high scalability and durability for various use cases such as backup, archiving, and content distribution.
+
+### Question 189
+**Which of the following is a primary advantage of using cloud-based intrusion detection and prevention systems (IDPS)?**
+
+A. Manual threat detection  
+B. Limited network visibility  
+C. Real-time monitoring and protection against network threats and intrusions  
+D. Fixed detection rules
+
+**Answer:** C. Real-time monitoring and protection against network threats and intrusions
+
+**Explanation:**  
+Cloud-based IDPS provide real-time monitoring and protection against network threats and intrusions, enhancing the security posture of cloud environments by detecting and mitigating malicious activities.
+
+### Question 190
+**What is the primary purpose of using cloud-based compliance management services?**
+
+A. Manual compliance tracking  
+B. Limited regulatory oversight  
+C. Automating the tracking, reporting, and management of compliance with regulatory standards and internal policies  
+D. Fixed compliance frameworks
+
+**Answer:** C. Automating the tracking, reporting, and management of compliance with regulatory standards and internal policies
+
+**Explanation:**  
+Cloud-based compliance management services automate the tracking, reporting, and management of compliance with various regulatory standards and internal policies, helping organizations stay compliant and reduce the risk of violations.
+
+### Question 191
+**Which of the following best describes the concept of cloud-based service-level agreements (SLAs)?**
+
+A. Informal service expectations  
+B. Limited performance guarantees  
+C. Formal agreements between cloud service providers and customers that outline the expected level of service performance and availability  
+D. Fixed service conditions
+
+**Answer:** C. Formal agreements between cloud service providers and customers that outline the expected level of service performance and availability
+
+**Explanation:**  
+Cloud-based SLAs are formal agreements that specify the expected level of service performance, availability, and other metrics, ensuring that customers know what to expect from their service providers.
+
+### Question 192
+**What is a primary benefit of using cloud-based big data analytics services?**
+
+A. Manual data analysis  
+B. Limited data processing power  
+C. Scalable and powerful tools for processing and analyzing large volumes of data to gain actionable insights  
+D. Fixed data analysis methods
+
+**Answer:** C. Scalable and powerful tools for processing and analyzing large volumes of data to gain actionable insights
+
+**Explanation:**  
+Cloud-based big data analytics services provide scalable and powerful tools for processing and analyzing vast amounts of data, enabling organizations to gain valuable insights and make data-driven decisions.
+
+### Question 193
+**Which of the following best describes the purpose of cloud-based data archival services?**
+
+A. Manual data storage  
+B. Limited data retention  
+C. Long-term storage of infrequently accessed data with lower cost and high durability  
+D. Fixed data archival periods
+
+**Answer:** C. Long-term storage of infrequently accessed data with lower cost and high durability
+
+**Explanation:**  
+Cloud-based data archival services are designed for the long-term storage of infrequently accessed data, offering lower costs and high durability to preserve data for compliance, legal, and historical purposes.
+
+### Question 194
+**What is a key characteristic of cloud-based virtual private cloud (VPC) services?**
+
+A. Manual network segmentation  
+B. Limited network isolation  
+C. Provisioning isolated virtual networks within a public cloud, providing enhanced security and control  
+D. Fixed network configurations
+
+**Answer:** C. Provisioning isolated virtual networks within a public cloud, providing enhanced security and control
+
+**Explanation:**  
+Cloud-based VPC services allow organizations to provision isolated virtual networks within a public cloud, offering enhanced security, control, and customization of their network environment.
+
+### Question 195
+**Which of the following is a primary advantage of using cloud-based security information and event management (SIEM) services?**
+
+A. Manual log analysis  
+B. Limited threat detection capabilities  
+C. Centralized collection, analysis, and correlation of security data for real-time threat detection and incident response  
+D. Fixed SIEM rules
+
+**Answer:** C. Centralized collection, analysis, and correlation of security data for real-time threat detection and incident response
+
+**Explanation:**  
+Cloud-based SIEM services provide centralized collection, analysis, and correlation of security data, enabling real-time threat detection, monitoring, and incident response to enhance an organization's security posture.
+
+### Question 196
+**What is the primary benefit of using cloud-based cost management tools?**
+
+A. Manual cost tracking  
+B. Limited cost visibility  
+C. Providing detailed insights and reporting on cloud usage and spending to optimize costs and manage budgets  
+D. Fixed cost structures
+
+**Answer:** C. Providing detailed insights and reporting on cloud usage and spending to optimize costs and manage budgets
+
+**Explanation:**  
+Cloud-based cost management tools offer detailed insights and reporting on cloud usage and spending, helping organizations optimize their costs, manage budgets, and avoid unexpected expenses.
+
+### Question 197
+**Which of the following best describes the concept of cloud-based edge computing?**
+
+A. Centralized data processing  
+B. Limited computing power at the edge  
+C. Processing data closer to the source of generation to reduce latency and bandwidth usage  
+D. Fixed edge configurations
+
+**Answer:** C. Processing data closer to the source of generation to reduce latency and bandwidth usage
+
+**Explanation:**  
+Cloud-based edge computing involves processing data closer to where it is generated, reducing latency and bandwidth usage by minimizing the distance data needs to travel, which is especially beneficial for real-time applications.
+
+### Question 198
+**What is a key characteristic of cloud-based backup-as-a-service (BaaS)?**
+
+A. Manual backup processes  
+B. Limited backup capabilities  
+C. Automated and managed backup solutions provided by the cloud service provider to protect data and ensure recovery  
+D. Fixed backup schedules
+
+**Answer:**
+
+ C. Automated and managed backup solutions provided by the cloud service provider to protect data and ensure recovery
+
+**Explanation:**  
+Cloud-based BaaS provides automated and managed backup solutions, ensuring that data is regularly backed up, protected, and can be recovered in the event of data loss or disaster.
+
+### Question 199
+**Which of the following best describes the purpose of cloud-based disaster recovery as a service (DRaaS)?**
+
+A. Manual disaster recovery planning  
+B. Limited disaster recovery options  
+C. Providing a comprehensive disaster recovery solution that enables rapid recovery of IT systems and data  
+D. Fixed disaster recovery plans
+
+**Answer:** C. Providing a comprehensive disaster recovery solution that enables rapid recovery of IT systems and data
+
+**Explanation:**  
+Cloud-based DRaaS offers a comprehensive disaster recovery solution that ensures rapid recovery of IT systems and data, minimizing downtime and impact in the event of a disaster.
+
+### Question 200
+**What is a primary benefit of using cloud-based automated scaling services?**
+
+A. Manual resource allocation  
+B. Limited scalability  
+C. Automatically adjusting computing resources based on demand to optimize performance and cost-efficiency  
+D. Fixed scaling configurations
+
+**Answer:** C. Automatically adjusting computing resources based on demand to optimize performance and cost-efficiency
+
+**Explanation:**  
+Cloud-based automated scaling services dynamically adjust computing resources based on demand, ensuring optimal performance and cost-efficiency by scaling up or down as needed.
+
 **********
 
